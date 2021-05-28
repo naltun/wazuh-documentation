@@ -34,12 +34,15 @@ removedUrls['x.y'] = [
 ];
 */
 
+/* *** RELEASE 4.3 ****/
+
 /* Pages added in 4.3 */
 
 newUrls['4.3'] = [
   '/github/index.html',
   '/github/monitoring-github-activity.html',
   '/user-manual/reference/ossec-conf/github-module.html',
+  '/user-manual/capabilities/log-data-collection/how-to-collect-macoslogs.html',
 ];
 
 /* *** RELEASE 4.2 ****/
